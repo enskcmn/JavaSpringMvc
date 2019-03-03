@@ -12,7 +12,7 @@ Instructions for run the project.
 4-	After selecting the folder from your workspace you should see a pom.xml file in project field.<br/>                                        																              					
 5-	Click on Finish button.	<br/>																																																	                  																																																					 
 6-	You can see project in Navigator panel.
-
+<br/>
 
 REFERENCES
 
