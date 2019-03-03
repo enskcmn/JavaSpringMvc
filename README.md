@@ -1,7 +1,7 @@
 # JavaSpringMvc
 
 One page project for crud operations of users.<br/>
-Project dependencies are, Spring Mvc, MongoDB, Javascript, AngularJS and Maven build. <br/>
+Project dependencies are Spring Mvc, MongoDB, Javascript, AngularJS and Maven build. <br/>
 Project has 5 layers. These are; Controller(BLL), Service, Dao(DAL), Model and Presentation(PL).
 
 Instructions for run the project.
