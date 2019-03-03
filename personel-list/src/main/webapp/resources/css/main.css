@@ -1,0 +1,19 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+}
+input.ng-invalid {
+  background-color: pink;
+}
+input.ng-pristine {
+  background-color: lightblue;
+}
+input.ng-valid {
+  background-color: lightgreen;
+}
+.invokesToastMessage {
+    left: 50%;
+    position: fixed;
+    transform: translate(-50%, 0px);
+    z-index: 9999;
+}
